@@ -2,99 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://advertiseguyana.com/listing?id=hotel-a&amp;name=Hotel%20A%20XY</loc>
-      <lastmod>2025-02-15T07:37:31.331Z</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://advertiseguyana.com/listing?id=gov-epa-guyana&amp;name=Environmental%20Protection%20Agency%20(GY)</loc>
-      <lastmod>2025-02-15T07:34:22.591Z</lastmod>
+      <loc>https://advertiseguyana.com/listing?id=ngo-gy-red-cross&amp;name=Guyana%20Red%20Cross</loc>
+      <lastmod>2025-02-15T11:11:23.207Z</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
       <loc>https://advertiseguyana.com/listing?id=svc-renegade-machinery-services&amp;name=Renegade%20Machinery%20Services</loc>
-      <lastmod>2025-02-15T07:03:22.629Z</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://advertiseguyana.com/listing?id=ngo-iwokrama&amp;name=Iwokrama%20International%20Centre%20For%20Rainforest%20Conservation%20And%20Development</loc>
-      <lastmod>2025-02-15T09:50:27.666Z</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://advertiseguyana.com/listing?id=ngo-ci-international&amp;name=Conservation%20International%20-%20Guyana</loc>
-      <lastmod>2025-02-15T07:38:08.793Z</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://advertiseguyana.com/listing?id=car-rental-c&amp;name=Car%20Rental%20C</loc>
-      <lastmod>2025-02-15T08:59:48.305Z</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://advertiseguyana.com/listing?id=gov-min-housing&amp;name=Ministry%20of%20Housing</loc>
-      <lastmod>2025-02-15T10:59:50.626Z</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://advertiseguyana.com/listing?id=medical-zabida-paradise&amp;name=Zabida%20Paradise</loc>
-      <lastmod>2025-02-15T09:07:00.910Z</lastmod>
+      <lastmod>2025-02-15T08:13:37.029Z</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
       <loc>https://advertiseguyana.com/listing?id=car-rental-b&amp;name=Car%20Rental%20B</loc>
-      <lastmod>2025-02-15T10:22:08.485Z</lastmod>
+      <lastmod>2025-02-15T08:23:22.173Z</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>https://advertiseguyana.com/listing?id=car-rental-c&amp;name=Car%20Rental%20C</loc>
+      <lastmod>2025-02-15T10:02:12.103Z</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
       <loc>https://advertiseguyana.com/listing?id=medical-gphc&amp;name=Georgetown%20Public%20Hospital</loc>
-      <lastmod>2025-02-15T09:38:53.076Z</lastmod>
+      <lastmod>2025-02-15T09:15:35.026Z</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>https://advertiseguyana.com/listing?id=gov-epa-guyana&amp;name=Environmental%20Protection%20Agency%20(GY)</loc>
+      <lastmod>2025-02-15T10:24:28.283Z</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
       <loc>https://advertiseguyana.com/listing?id=svc-richie-welding&amp;name=Richie&apos;s%20Welding%20and%20Fabrication%20Services</loc>
-      <lastmod>2025-02-15T10:05:05.433Z</lastmod>
+      <lastmod>2025-02-15T08:34:02.253Z</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>https://advertiseguyana.com/listing?id=hotel-a&amp;name=Hotel%20A%20XY</loc>
+      <lastmod>2025-02-15T10:12:12.673Z</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>https://advertiseguyana.com/listing?id=medical-zabida-paradise&amp;name=Zabida%20Paradise</loc>
+      <lastmod>2025-02-15T08:35:12.664Z</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>https://advertiseguyana.com/listing?id=gov-min-housing&amp;name=Ministry%20of%20Housing</loc>
+      <lastmod>2025-02-15T09:09:10.267Z</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>https://advertiseguyana.com/listing?id=ngo-ci-international&amp;name=Conservation%20International%20-%20Guyana</loc>
+      <lastmod>2025-02-15T08:03:02.492Z</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
       <loc>https://advertiseguyana.com/listing?id=hotel-b&amp;name=Hotel%20B</loc>
-      <lastmod>2025-02-15T09:49:10.066Z</lastmod>
+      <lastmod>2025-02-15T10:26:04.234Z</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
-      <loc>https://advertiseguyana.com/listing?id=ngo-gy-red-cross&amp;name=Guyana%20Red%20Cross</loc>
-      <lastmod>2025-02-15T08:15:27.644Z</lastmod>
+      <loc>https://advertiseguyana.com/listing?id=ngo-iwokrama&amp;name=Iwokrama%20International%20Centre%20For%20Rainforest%20Conservation%20And%20Development</loc>
+      <lastmod>2025-02-15T10:34:30.008Z</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
     </url>
   
     <url>
       <loc>https://advertiseguyana.com/listing?id=car-rental-a&amp;name=Car%20Rental%20A</loc>
-      <lastmod>2025-02-15T10:39:04.299Z</lastmod>
+      <lastmod>2025-02-15T09:40:29.112Z</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
     </url>
